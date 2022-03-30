@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yuri
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Geographic Information Systems at Coimbra University - Portugal
+- 📫 How to reach me: yuri.mtig@gmail.com
